@@ -1,0 +1,1 @@
+[![Python application test with Github Actions](https://github.com/roninram/MLOps_01/actions/workflows/test01MLOps_.yml/badge.svg)](https://github.com/roninram/MLOps_01/actions/workflows/test01MLOps_.yml)
