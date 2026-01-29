@@ -1,0 +1,13 @@
+ # commandsf for github operations: 
+    2  git status
+    3  git pull
+    4  ls
+    5  make test
+    6  git status
+    7  git add Makefile
+    8  git commit -m "adding coverage report to Makefile"
+    9  make test
+   10  git status
+   11  git add Makefile
+   12  git commit -m "adding coverage report to Makefile"
+   13  git push
